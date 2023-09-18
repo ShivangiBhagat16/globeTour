@@ -1,0 +1,12 @@
+.logo {
+  height: 10rem;
+  vertical-align: middle;
+}
+:global(.logotext) {
+  font-size: 45px;
+  text-transform: capitalize;
+  vertical-align: middle;
+  margin-left: 15px;  
+  font-family: 'Dancing Script', cursive;
+  color: #fff;
+}
